@@ -1,0 +1,8 @@
+
+PREDICTIVE ANALYTICS - MODEL EVALUATION
+
+Algorithm: Linear Regression
+
+Mean Absolute Error: 247.16
+Root Mean Squared Error: 349.26
+R2 Score: 0.6868
